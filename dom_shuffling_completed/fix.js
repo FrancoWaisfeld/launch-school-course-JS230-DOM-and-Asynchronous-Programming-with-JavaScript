@@ -1,0 +1,13 @@
+let header = document.querySelector('body > header');
+let main = document.querySelector('body > main');
+document.body.insertBefore(header, main);
+let h1 = document.querySelector('body > main > h1');
+let nav = document.querySelector('body > header > nav');
+header.insertBefore(h1, nav);
+let [figure1, figure2] = document.querySelectorAll('figure');
+let [figCaption1, figCaption2] = document.querySelectorAll('figcaption');
+figure1.appendChild(figCaption1);
+figure2.appendChild(figCaption2);
+let article = document.querySelector('article');
+article.appendChild(figure2);
+article.appendChild(figure1);

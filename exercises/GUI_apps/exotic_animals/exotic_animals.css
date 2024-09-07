@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+#exotic_animals {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  display: none;
+  text-align: center;
+}
