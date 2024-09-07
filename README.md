@@ -12,5 +12,5 @@ This repository contains practice exercises and projects from Launch School's JS
 
 ## Projects from this course
 
-- guess-a-word: a word guessing game similar to hang-man built using vanilla JavaScript, HTML, and CSS
-- photo_gallery2: a photo gallery application with likes, favorites, and comments built using vanilla JavaScript, Handlebars.js, Express.js, HTML, and CSS.
+- **guess-a-word**: a word guessing game similar to hang-man built using vanilla JavaScript, HTML, and CSS
+- **photo_gallery2**: a photo gallery application with likes, favorites, and comments built using vanilla JavaScript, Handlebars.js, Express.js, HTML, and CSS.
